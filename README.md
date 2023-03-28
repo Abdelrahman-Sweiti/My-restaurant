@@ -1,3 +1,5 @@
-# My-restaurant
+# High-Class restaurant 
 
-![image of the wireframe](wire1.png)
+**we serve all japense food**
+
+![image of the wireframe](lab02.png)
